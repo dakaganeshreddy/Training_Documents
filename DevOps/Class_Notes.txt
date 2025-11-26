@@ -1,0 +1,86 @@
+DevOps with Multi-Cloud with Gen-AI 
+
+Start Date: 25th Nov. 2025
+Time: 8PM-10PM IST
+
+######################
+Day 1: 25th Nov. 2025
+######################
+
+	Introduction!
+	
+	php
+	middleware
+	devops
+	azdevops
+	testing
+	embedded tools!
+	
+	
+	Programming Languages -- To Develop Business Application 
+			(vs)
+	Scripting Languages   -- To Perform Process Automation 
+	
+									--> Related to Application 
+											--> Javascripts
+										
+									
+									--> External Service Implementation 
+									
+											- DevOps Implementation
+													- CICD 
+														- Script using groovy(jenkins) 
+														- Shell Scripts 
+														- YAML Scripts 
+														- Pythons 
+
+######################
+Day 2: 26th Nov. 2025
+######################
+
+Lab Requirements :::
+	
+		Linux 
+		Python 
+		Build Tool - Maven
+		
+		GIT
+		Jenkins
+		Docker
+		Kubernetes
+		Ansible
+		Terraform
+		Prometheus
+		Grafana
+	
+	Pre-requisites :
+
+	- Create GitHub Account 
+		https://github.com/
+	
+		- Active Email_ID
+		
+	
+	- AWS Cloud Platform:
+	
+		- Create Free Tier Account - Valid for 12 Months
+		
+			- Active Email_ID, Mobile_Number, Credit/Debit Card(Enabled with International Transaction)
+		
+	
+	- Create DockerHub Account: 
+		
+		- Active Email_ID
+		
+
+
+	Later: 
+		- Install Some Tools on Local Machine :
+		
+			- Git client 
+			
+			- Visual Studio Code 
+			
+			- Python 
+			
+			- Terraform 
